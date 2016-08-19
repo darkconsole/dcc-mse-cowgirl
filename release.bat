@@ -1,0 +1,1 @@
+zip dcc-mse-cowgirl-v%~1.zip -r dcc-mse-cowgirl.esp meshes scripts sound textures tools

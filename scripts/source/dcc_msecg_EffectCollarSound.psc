@@ -16,7 +16,21 @@ Event OnEffectStart(Actor who, Actor caster)
 EndEvent
 
 Event OnUpdate()
+
+	If(self == None)
+		;; not sure of the edge cages that cause this. maybe has something
+		;; to do with crossing load boundaries. also can be caused by
+		;; removing the collar before the next ding.
+		Return
+	EndIf
+
 	Actor who = self.GetTargetActor()
+
+	if(who == None)
+		;; i don't think this was a factor but i added it anyway. im pretty
+		;; sure it is only the self causing issues.
+		Return
+	EndIf
 
 	;; default walking speeds.
 	Float min = 0.5
