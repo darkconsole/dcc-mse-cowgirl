@@ -1,0 +1,389 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DC Cowgirl Boots">
+        <DataFolder>DC Cowgirl Boots</DataFolder>
+        <SourceFile>DC Cowgirl Boots.nif</SourceFile>
+        <OutputPath>meshes\dcc-mse-cowgirl\boots</OutputPath>
+        <OutputFile GenWeights="true">hoof</OutputFile>
+        <Shape target="UUNP" DataFolder="Unified UNP">UUNP</Shape>
+        <Shape target="bootcover">bootcover</Shape>
+        <Shape target="hoof">hoof</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="Breasts" target="UUNP">Breasts.bsd</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BreastsSmall" target="UUNP">BreastsSmall.bsd</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BreastsSH" target="UUNP">BreastsSH.bsd</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BreastsSSH" target="UUNP">BreastsSSH.bsd</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BreastsFantasy" target="UUNP">BreastsFantasy.bsd</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="DoubleMelon" target="UUNP">DoubleMelon.bsd</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BreastCleavage" target="UUNP">BreastCleavage.bsd</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BreastFlatness" target="UUNP">BreastFlatness.bsd</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BreastGravity" target="UUNP">BreastGravity.bsd</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="PushUp" target="UUNP">PushUp.bsd</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BreastHeight" target="UUNP">BreastHeight.bsd</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BreastPerkiness" target="UUNP">BreastPerkiness.bsd</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BreastWidth" target="UUNP">BreastWidth.bsd</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="NippleDistance" target="UUNP">NippleDistance.bsd</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="NipplePerkiness" target="UUNP">NipplePerkiness.bsd</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="NippleLength" target="UUNP">NippleLength.bsd</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="NippleSize" target="UUNP">NippleSize.bsd</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="NippleAreola" target="UUNP">NippleAreola.bsd</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="NippleUp" target="UUNP">NippleUp.bsd</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="NippleDown" target="UUNP">NippleDown.bsd</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="NippleTip" target="UUNP">NippleTip.bsd</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="Arms" target="UUNP">Arms.bsd</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="ChubbyArms" target="UUNP">ChubbyArms.bsd</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="ShoulderSmooth" target="UUNP">ShoulderSmooth.bsd</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="ShoulderWidth" target="UUNP">ShoulderWidth.bsd</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BigTorso" target="UUNP">BigTorso.bsd</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="Waist" target="UUNP">Waist.bsd</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="WideWaistLine" target="UUNP">WideWaistLine.bsd</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="ChubbyWaist" target="UUNP">ChubbyWaist.bsd</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="Belly" target="UUNP">Belly.bsd</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BigBelly" target="UUNP">BigBelly.bsd</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="PregnancyBelly" target="UUNP">PregnancyBelly.bsd</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="TummyTuck" target="UUNP">TummyTuck.bsd</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="Back" target="UUNP">Back.bsd</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="Hipbone" target="UUNP">Hipbone.bsd</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="Hips" target="UUNP">Hips.bsd</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="ButtCrack" target="UUNP">ButtCrack.bsd</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="Butt" target="UUNP">Butt.bsd</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="ButtSmall" target="UUNP">ButtSmall.bsd</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="ButtShape2" target="UUNP">ButtShape2.bsd</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BigButt" target="UUNP">BigButt.bsd</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="ChubbyButt" target="UUNP">ChubbyButt.bsd</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="AppleCheeks" target="UUNP">AppleCheeks.bsd</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="RoundAss" target="UUNP">RoundAss.bsd</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="SlimThighs" target="UUNP">SlimThighs.bsd</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="Thighs" target="UUNP">Thighs.bsd</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="ChubbyLegs" target="UUNP">ChubbyLegs.bsd</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="Legs" target="UUNP">Legs.bsd</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="KneeHeight" target="UUNP">KneeHeight.bsd</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="CalfSize" target="UUNP">CalfSize.bsd</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="CalfSmooth" target="UUNP">CalfSmooth.bsd</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="Neck" target="UUNP">Neck.bsd</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="7B Low" target="UUNP">7B Low.bsd</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="7B High" target="UUNP">7B High.bsd</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="7B Bombshell Low" target="UUNP">7B Bombshell Low.bsd</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="7B Bombshell High" target="UUNP">7B Bombshell High.bsd</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="7B Natural Low" target="UUNP">7B Natural Low.bsd</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="7B Natural High" target="UUNP">7B Natural High.bsd</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="7B Cleavage Low" target="UUNP">7B Cleavage Low.bsd</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="7B Cleavage High" target="UUNP">7B Cleavage High.bsd</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="7B BCup Low" target="UUNP">7B BCup Low.bsd</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="7B BCup High" target="UUNP">7B BCup High.bsd</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="7BUNP Low" target="UUNP">7BUNP Low.bsd</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="7BUNP High" target="UUNP">7BUNP High.bsd</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="7B Oppai Low" target="UUNP">7B Oppai Low.bsd</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="7B Oppai High" target="UUNP">7B Oppai High.bsd</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="7B CH Low" target="UUNP">7B CH Low.bsd</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="7B CH High" target="UUNP">7B CH High.bsd</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="UNP Low" target="UUNP">UNP Low.bsd</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="UNP High" target="UUNP">UNP High.bsd</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="UNP Pushup Low" target="UUNP">UNP Pushup Low.bsd</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="UNP Pushup High" target="UUNP">UNP Pushup High.bsd</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="UNP Skinny Low" target="UUNP">UNP Skinny Low.bsd</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="UNP Skinny High" target="UUNP">UNP Skinny High.bsd</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="UNP Perky Low" target="UUNP">UNP Perky Low.bsd</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="UNP Perky High" target="UUNP">UNP Perky High.bsd</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="UNPB Low" target="UUNP">UNPB Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="UNPB High" target="UUNP">UNPB High.bsd</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="UNPB Chapi" target="UUNP">UNPB Chapi.bsd</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="UNPB Oppai v1" target="UUNP">UNPB Oppai v1.bsd</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="UNPB Oppai v3.2 Low" target="UUNP">UNPB Oppai v3.2 Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="UNPB Oppai v3.2 High" target="UUNP">UNPB Oppai v3.2 High.bsd</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="UNPetite Low" target="UUNP">UNPetite Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="UNPetite High" target="UUNP">UNPetite High.bsd</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="UNPC Low" target="UUNP">UNPC Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="UNPC High" target="UUNP">UNPC High.bsd</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="UNPCM Low" target="UUNP">UNPCM Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="UNPCM High" target="UUNP">UNPCM High.bsd</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="UNPSH Low" target="UUNP">UNPSH Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="UNPSH High" target="UUNP">UNPSH High.bsd</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="UNPK Low" target="UUNP">UNPK Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="UNPK High" target="UUNP">UNPK High.bsd</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="UNPK Bonus Low" target="UUNP">UNPK Bonus Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="UNPK Bonus High" target="UUNP">UNPK Bonus High.bsd</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="UN7B Low" target="UUNP">UN7B Low.bsd</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="UN7B High" target="UUNP">UN7B High.bsd</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="UNPBB Low" target="UUNP">UNPBB Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="UNPBB High" target="UUNP">UNPBB High.bsd</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="Seraphim Low" target="UUNP">Seraphim Low.bsd</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="Seraphim High" target="UUNP">Seraphim High.bsd</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="Demonfet Low" target="UUNP">Demonfet Low.bsd</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="Demonfet High" target="UUNP">Demonfet High.bsd</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="Dream Girl Low" target="UUNP">Dream Girl Low.bsd</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="Dream Girl High" target="UUNP">Dream Girl High.bsd</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Top Model Low" target="UUNP">Top Model Low.bsd</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Top Model High" target="UUNP">Top Model High.bsd</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="Leito Low" target="UUNP">Leito Low.bsd</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="Leito High" target="UUNP">Leito High.bsd</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="UNPF Low" target="UUNP">UNPF Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="UNPF High" target="UUNP">UNPF High.bsd</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="UNPFx Low" target="UUNP">UNPFx Low.bsd</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="UNPFx High" target="UUNP">UNPFx High.bsd</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="CNHF Low" target="UUNP">CNHF Low.bsd</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="CNHF High" target="UUNP">CNHF High.bsd</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="CNHF Bonus Low" target="UUNP">CNHF Bonus Low.bsd</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="CNHF Bonus High" target="UUNP">CNHF Bonus High.bsd</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="MCBM Low" target="UUNP">MCBM Low.bsd</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="MCBM High" target="UUNP">MCBM High.bsd</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="Venus Low" target="UUNP">Venus Low.bsd</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="Venus High" target="UUNP">Venus High.bsd</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="ZGGB-R2 Low" target="UUNP">ZGGB-R2 Low.bsd</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="ZGGB-R2 High" target="UUNP">ZGGB-R2 High.bsd</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="Manga Low" target="UUNP">Manga Low.bsd</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="Manga High" target="UUNP">Manga High.bsd</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="CHSBHC Low" target="UUNP">CHSBHC Low.bsd</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="CHSBHC High" target="UUNP">CHSBHC High.bsd</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

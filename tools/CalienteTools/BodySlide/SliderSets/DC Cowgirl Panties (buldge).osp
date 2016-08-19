@@ -1,0 +1,487 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DC Cowgirl Panties (buldge)">
+        <DataFolder>DC Cowgirl Panties (buldge)</DataFolder>
+        <SourceFile>DC Cowgirl Panties (buldge).nif</SourceFile>
+        <OutputPath>meshes\dcc-mse-cowgirl\panty</OutputPath>
+        <OutputFile GenWeights="true">panty</OutputFile>
+        <Shape target="UUNP" DataFolder="Unified UNP">UUNP</Shape>
+        <Shape target="panty">panty</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="Breasts" target="UUNP">Breasts.bsd</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BreastsSmall" target="UUNP">BreastsSmall.bsd</Data>
+            <Data name="pantyBreastsSmall" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BreastsSH" target="UUNP">BreastsSH.bsd</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BreastsSSH" target="UUNP">BreastsSSH.bsd</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BreastsFantasy" target="UUNP">BreastsFantasy.bsd</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="DoubleMelon" target="UUNP">DoubleMelon.bsd</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BreastCleavage" target="UUNP">BreastCleavage.bsd</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BreastFlatness" target="UUNP">BreastFlatness.bsd</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BreastGravity" target="UUNP">BreastGravity.bsd</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="PushUp" target="UUNP">PushUp.bsd</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BreastHeight" target="UUNP">BreastHeight.bsd</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BreastPerkiness" target="UUNP">BreastPerkiness.bsd</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BreastWidth" target="UUNP">BreastWidth.bsd</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="NippleDistance" target="UUNP">NippleDistance.bsd</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="NipplePerkiness" target="UUNP">NipplePerkiness.bsd</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="NippleLength" target="UUNP">NippleLength.bsd</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="NippleSize" target="UUNP">NippleSize.bsd</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="NippleAreola" target="UUNP">NippleAreola.bsd</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="NippleUp" target="UUNP">NippleUp.bsd</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="NippleDown" target="UUNP">NippleDown.bsd</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="NippleTip" target="UUNP">NippleTip.bsd</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="Arms" target="UUNP">Arms.bsd</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="ChubbyArms" target="UUNP">ChubbyArms.bsd</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="ShoulderSmooth" target="UUNP">ShoulderSmooth.bsd</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="ShoulderWidth" target="UUNP">ShoulderWidth.bsd</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BigTorso" target="UUNP">BigTorso.bsd</Data>
+            <Data name="pantyBigTorso" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="Waist" target="UUNP">Waist.bsd</Data>
+            <Data name="pantyWaist" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="WideWaistLine" target="UUNP">WideWaistLine.bsd</Data>
+            <Data name="pantyWideWaistLine" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="ChubbyWaist" target="UUNP">ChubbyWaist.bsd</Data>
+            <Data name="pantyChubbyWaist" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="Belly" target="UUNP">Belly.bsd</Data>
+            <Data name="pantyBelly" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BigBelly" target="UUNP">BigBelly.bsd</Data>
+            <Data name="pantyBigBelly" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="PregnancyBelly" target="UUNP">PregnancyBelly.bsd</Data>
+            <Data name="pantyPregnancyBelly" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="TummyTuck" target="UUNP">TummyTuck.bsd</Data>
+            <Data name="pantyTummyTuck" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="Back" target="UUNP">Back.bsd</Data>
+            <Data name="pantyBack" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="Hipbone" target="UUNP">Hipbone.bsd</Data>
+            <Data name="pantyHipbone" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="Hips" target="UUNP">Hips.bsd</Data>
+            <Data name="pantyHips" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="ButtCrack" target="UUNP">ButtCrack.bsd</Data>
+            <Data name="pantyButtCrack" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="Butt" target="UUNP">Butt.bsd</Data>
+            <Data name="pantyButt" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="ButtSmall" target="UUNP">ButtSmall.bsd</Data>
+            <Data name="pantyButtSmall" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="ButtShape2" target="UUNP">ButtShape2.bsd</Data>
+            <Data name="pantyButtShape2" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BigButt" target="UUNP">BigButt.bsd</Data>
+            <Data name="pantyBigButt" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="ChubbyButt" target="UUNP">ChubbyButt.bsd</Data>
+            <Data name="pantyChubbyButt" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="AppleCheeks" target="UUNP">AppleCheeks.bsd</Data>
+            <Data name="pantyAppleCheeks" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="RoundAss" target="UUNP">RoundAss.bsd</Data>
+            <Data name="pantyRoundAss" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="SlimThighs" target="UUNP">SlimThighs.bsd</Data>
+            <Data name="pantySlimThighs" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantySlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="Thighs" target="UUNP">Thighs.bsd</Data>
+            <Data name="pantyThighs" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="ChubbyLegs" target="UUNP">ChubbyLegs.bsd</Data>
+            <Data name="pantyChubbyLegs" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="Legs" target="UUNP">Legs.bsd</Data>
+            <Data name="pantyLegs" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="KneeHeight" target="UUNP">KneeHeight.bsd</Data>
+            <Data name="pantyKneeHeight" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="CalfSize" target="UUNP">CalfSize.bsd</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="CalfSmooth" target="UUNP">CalfSmooth.bsd</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="Neck" target="UUNP">Neck.bsd</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="7B Low" target="UUNP">7B Low.bsd</Data>
+            <Data name="panty7B Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="7B High" target="UUNP">7B High.bsd</Data>
+            <Data name="panty7B High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="7B Bombshell Low" target="UUNP">7B Bombshell Low.bsd</Data>
+            <Data name="panty7B Bombshell Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="7B Bombshell High" target="UUNP">7B Bombshell High.bsd</Data>
+            <Data name="panty7B Bombshell High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="7B Natural Low" target="UUNP">7B Natural Low.bsd</Data>
+            <Data name="panty7B Natural Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="7B Natural High" target="UUNP">7B Natural High.bsd</Data>
+            <Data name="panty7B Natural High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="7B Cleavage Low" target="UUNP">7B Cleavage Low.bsd</Data>
+            <Data name="panty7B Cleavage Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="7B Cleavage High" target="UUNP">7B Cleavage High.bsd</Data>
+            <Data name="panty7B Cleavage High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="7B BCup Low" target="UUNP">7B BCup Low.bsd</Data>
+            <Data name="panty7B BCup Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="7B BCup High" target="UUNP">7B BCup High.bsd</Data>
+            <Data name="panty7B BCup High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="7BUNP Low" target="UUNP">7BUNP Low.bsd</Data>
+            <Data name="panty7BUNP Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="7BUNP High" target="UUNP">7BUNP High.bsd</Data>
+            <Data name="panty7BUNP High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="7B Oppai Low" target="UUNP">7B Oppai Low.bsd</Data>
+            <Data name="panty7B Oppai Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="7B Oppai High" target="UUNP">7B Oppai High.bsd</Data>
+            <Data name="panty7B Oppai High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="7B CH Low" target="UUNP">7B CH Low.bsd</Data>
+            <Data name="panty7B CH Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="7B CH High" target="UUNP">7B CH High.bsd</Data>
+            <Data name="panty7B CH High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\panty7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="UNP Low" target="UUNP">UNP Low.bsd</Data>
+            <Data name="pantyUNP Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="UNP High" target="UUNP">UNP High.bsd</Data>
+            <Data name="pantyUNP High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="UNP Pushup Low" target="UUNP">UNP Pushup Low.bsd</Data>
+            <Data name="pantyUNP Pushup Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="UNP Pushup High" target="UUNP">UNP Pushup High.bsd</Data>
+            <Data name="pantyUNP Pushup High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="UNP Skinny Low" target="UUNP">UNP Skinny Low.bsd</Data>
+            <Data name="pantyUNP Skinny Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="UNP Skinny High" target="UUNP">UNP Skinny High.bsd</Data>
+            <Data name="pantyUNP Skinny High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="UNP Perky Low" target="UUNP">UNP Perky Low.bsd</Data>
+            <Data name="pantyUNP Perky Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="UNP Perky High" target="UUNP">UNP Perky High.bsd</Data>
+            <Data name="pantyUNP Perky High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="UNPB Low" target="UUNP">UNPB Low.bsd</Data>
+            <Data name="pantyUNPB Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="UNPB High" target="UUNP">UNPB High.bsd</Data>
+            <Data name="pantyUNPB High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="UNPB Chapi" target="UUNP">UNPB Chapi.bsd</Data>
+            <Data name="pantyUNPB Chapi" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="UNPB Oppai v1" target="UUNP">UNPB Oppai v1.bsd</Data>
+            <Data name="pantyUNPB Oppai v1" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="UNPB Oppai v3.2 Low" target="UUNP">UNPB Oppai v3.2 Low.bsd</Data>
+            <Data name="pantyUNPB Oppai v3.2 Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="UNPB Oppai v3.2 High" target="UUNP">UNPB Oppai v3.2 High.bsd</Data>
+            <Data name="pantyUNPB Oppai v3.2 High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="UNPetite Low" target="UUNP">UNPetite Low.bsd</Data>
+            <Data name="pantyUNPetite Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="UNPetite High" target="UUNP">UNPetite High.bsd</Data>
+            <Data name="pantyUNPetite High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="UNPC Low" target="UUNP">UNPC Low.bsd</Data>
+            <Data name="pantyUNPC Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="UNPC High" target="UUNP">UNPC High.bsd</Data>
+            <Data name="pantyUNPC High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="UNPCM Low" target="UUNP">UNPCM Low.bsd</Data>
+            <Data name="pantyUNPCM Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="UNPCM High" target="UUNP">UNPCM High.bsd</Data>
+            <Data name="pantyUNPCM High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="UNPSH Low" target="UUNP">UNPSH Low.bsd</Data>
+            <Data name="pantyUNPSH Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="UNPSH High" target="UUNP">UNPSH High.bsd</Data>
+            <Data name="pantyUNPSH High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="UNPK Low" target="UUNP">UNPK Low.bsd</Data>
+            <Data name="pantyUNPK Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="UNPK High" target="UUNP">UNPK High.bsd</Data>
+            <Data name="pantyUNPK High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="UNPK Bonus Low" target="UUNP">UNPK Bonus Low.bsd</Data>
+            <Data name="pantyUNPK Bonus Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="UNPK Bonus High" target="UUNP">UNPK Bonus High.bsd</Data>
+            <Data name="pantyUNPK Bonus High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="UN7B Low" target="UUNP">UN7B Low.bsd</Data>
+            <Data name="pantyUN7B Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="UN7B High" target="UUNP">UN7B High.bsd</Data>
+            <Data name="pantyUN7B High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="UNPBB Low" target="UUNP">UNPBB Low.bsd</Data>
+            <Data name="pantyUNPBB Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="UNPBB High" target="UUNP">UNPBB High.bsd</Data>
+            <Data name="pantyUNPBB High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="Seraphim Low" target="UUNP">Seraphim Low.bsd</Data>
+            <Data name="pantySeraphim Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantySeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="Seraphim High" target="UUNP">Seraphim High.bsd</Data>
+            <Data name="pantySeraphim High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantySeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="Demonfet Low" target="UUNP">Demonfet Low.bsd</Data>
+            <Data name="pantyDemonfet Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="Demonfet High" target="UUNP">Demonfet High.bsd</Data>
+            <Data name="pantyDemonfet High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="Dream Girl Low" target="UUNP">Dream Girl Low.bsd</Data>
+            <Data name="pantyDream Girl Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="Dream Girl High" target="UUNP">Dream Girl High.bsd</Data>
+            <Data name="pantyDream Girl High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Top Model Low" target="UUNP">Top Model Low.bsd</Data>
+            <Data name="pantyTop Model Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Top Model High" target="UUNP">Top Model High.bsd</Data>
+            <Data name="pantyTop Model High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="Leito Low" target="UUNP">Leito Low.bsd</Data>
+            <Data name="pantyLeito Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="Leito High" target="UUNP">Leito High.bsd</Data>
+            <Data name="pantyLeito High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="UNPF Low" target="UUNP">UNPF Low.bsd</Data>
+            <Data name="pantyUNPF Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="UNPF High" target="UUNP">UNPF High.bsd</Data>
+            <Data name="pantyUNPF High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="UNPFx Low" target="UUNP">UNPFx Low.bsd</Data>
+            <Data name="pantyUNPFx Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="UNPFx High" target="UUNP">UNPFx High.bsd</Data>
+            <Data name="pantyUNPFx High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="CNHF Low" target="UUNP">CNHF Low.bsd</Data>
+            <Data name="pantyCNHF Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="CNHF High" target="UUNP">CNHF High.bsd</Data>
+            <Data name="pantyCNHF High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="CNHF Bonus Low" target="UUNP">CNHF Bonus Low.bsd</Data>
+            <Data name="pantyCNHF Bonus Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="CNHF Bonus High" target="UUNP">CNHF Bonus High.bsd</Data>
+            <Data name="pantyCNHF Bonus High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="MCBM Low" target="UUNP">MCBM Low.bsd</Data>
+            <Data name="pantyMCBM Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="MCBM High" target="UUNP">MCBM High.bsd</Data>
+            <Data name="pantyMCBM High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="Venus Low" target="UUNP">Venus Low.bsd</Data>
+            <Data name="pantyVenus Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="Venus High" target="UUNP">Venus High.bsd</Data>
+            <Data name="pantyVenus High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="ZGGB-R2 Low" target="UUNP">ZGGB-R2 Low.bsd</Data>
+            <Data name="pantyZGGB-R2 Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="ZGGB-R2 High" target="UUNP">ZGGB-R2 High.bsd</Data>
+            <Data name="pantyZGGB-R2 High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="Manga Low" target="UUNP">Manga Low.bsd</Data>
+            <Data name="pantyManga Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="Manga High" target="UUNP">Manga High.bsd</Data>
+            <Data name="pantyManga High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="CHSBHC Low" target="UUNP">CHSBHC Low.bsd</Data>
+            <Data name="pantyCHSBHC Low" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="CHSBHC High" target="UUNP">CHSBHC High.bsd</Data>
+            <Data name="pantyCHSBHC High" target="panty" local="true">DC Cowgirl Panties (buldge).osd\pantyCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
